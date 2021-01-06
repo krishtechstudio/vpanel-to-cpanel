@@ -3,7 +3,7 @@ Wanna have a cPanel experience in vPanel(myownfreehost.net)? You have come to th
 ⚠️ **I AM NOT RESPONSIBLE IF IFASTNET SUSPENDS/TERMINATES YOUR RESELLER ACCOUNT!** <br>
 <hr>
 This project uses multiple Open Source Projects of WybeNetwork and a lot of Organizations.<br>
-Steps >
+Steps > <br>
 1. Go fork my <a href="https://repl.it/@soundarrr/cpanel">repl.(Changing the scritps in Ifastnet panel takes a long time, so a small easy alternative).</a><br>
 2. After forking edit script.js, find https://domain.org and replace it with your support system url(A KB or a Discord Server URL).<br>
 3. Copy the repl.it deployed URL(e.g https://cpanel.yourusername.repl.co).<br>
