@@ -10,6 +10,8 @@ Steps >
 3. Copy the repl.it deployed URL(e.g https://cpanel.yourusername.repl.co).
 3. Login into https://panel.myownfreehost.net and go to customise adverts area(Control Panel Adverts), choose the domain and add,
 > Top Advert <br>
+
+
 ```<script type="text/javascript" src="https://cpanel.yourusername.repl.co/script.js"></script>```
 
 > Bottom Advert <br>
@@ -19,3 +21,10 @@ Steps >
 And thats pretty much it, you just got vPanel looking like cPanel.
 
 Screenshots = 
+<img src="https://i.snipboard.io/C0m8OM.jpg">
+<br>
+<img src="https://i.snipboard.io/Pmvr09.jpg">
+<br>
+
+This code is not completely perfect.
+If possible, you can help me :)
