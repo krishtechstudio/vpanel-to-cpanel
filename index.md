@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+# vPanel 2 cPanel
+Wanna have a cPanel experience in vPanel(myownfreehost.net)? You have come to the right place.<br>
+⚠️ **I AM NOT RESPONSIBLE IF IFASTNET SUSPENDS/TERMINATES YOUR RESELLER ACCOUNT!** <br>
+<hr>
+This project uses multiple Open Source Projects of WybeNetwork and a lot of Organizations.<br>
+Steps >
+1. Go fork my <a href="https://repl.it/@soundarrr/cpanel">repl.(Changing the scritps in Ifastnet panel takes a long time, so a small easy alternative).</a><br>
+2. After forking edit script.js, find https://domain.org and replace it with your support system url(A KB or a Discord Server URL).<br>
+3. Copy the repl.it deployed URL(e.g https://cpanel.yourusername.repl.co).<br>
+4. Login into https://panel.myownfreehost.net and go to customise adverts area(Control Panel Adverts), choose the domain and add,<br>
+> Top Advert <br>
 
-You can use the [editor on GitHub](https://github.com/FatGrizzly/vpanel-to-cpanel/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+```<script type="text/javascript" src="https://cpanel.yourusername.repl.co/script.js"></script>```
 
-### Markdown
+> Bottom Advert <br>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+`<link rel="stylesheet" type="text/css" href="https://cpanel.yourusername.repl.co/icon_spritemap.css">`  <br>
+`<link rel="stylesheet" type="text/css" href="https://cpanel.yourusername.repl.co/styles.css"> `
 
-```markdown
-Syntax highlighted code block
+<hr>
+And thats pretty much it, you just got vPanel looking like cPanel.<br>
+<br>
+Screenshots = <br>
+<img src="https://i.snipboard.io/C0m8OM.jpg">
+<br>
+<img src="https://i.snipboard.io/Pmvr09.jpg">
+<br>
 
-# Header 1
-## Header 2
-### Header 3
+This code is not completely perfect.<br>
+If possible, you can help me by opening a PR :)<br>
+If anything isnt working, or you need help, open a issue :)<br>
+and again,<br>
+⚠️ **I AM NOT RESPONSIBLE IF IFASTNET SUSPENDS/TERMINATES YOUR RESELLER ACCOUNT!**  <br>
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+Credits = <br>
+<a href="https://github.com/wybenetwork">WybeNetwork</a> for the Dark Theme<br>
+<a href="https://github.com/hansadema">HansAdema</a> for the Main script(I edited it, find the main script <a href="https://vpassets.infinityfree.net/vp/cpanel-head.js">here</a>) <br>
+And a lot of unsung Developers and Friends who helped and motivated in this project.<br>
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FatGrizzly/vpanel-to-cpanel/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+And a bonus tip, try <a href="https://cpanelo.sourceforge.io/">cPanelo.</a>
