@@ -7,7 +7,7 @@ Steps >
 1. Go fork my <a href="https://repl.it/@soundarrr/cpanel">repl.(Changing the scritps in Ifastnet panel takes a long time, so a small easy alternative).</a><br>
 2. After forking edit script.js, find https://domain.org and replace it with your support system url(A KB or a Discord Server URL).<br>
 3. Copy the repl.it deployed URL(e.g https://cpanel.yourusername.repl.co).<br>
-3. Login into https://panel.myownfreehost.net and go to customise adverts area(Control Panel Adverts), choose the domain and add,<br>
+4. Login into https://panel.myownfreehost.net and go to customise adverts area(Control Panel Adverts), choose the domain and add,<br>
 > Top Advert <br>
 
 
