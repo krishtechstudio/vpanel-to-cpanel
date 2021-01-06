@@ -1,13 +1,13 @@
 # vPanel 2 cPanel
 Wanna have a cPanel experience in vPanel(myownfreehost.net)? You have come to the right place.<br>
-⚠️ **I AM NOT RESPONSIBLE IF IFASTNET SUSPENDS/TERMINATES YOUR RESELLER ACCOUNT!**
+⚠️ **I AM NOT RESPONSIBLE IF IFASTNET SUSPENDS/TERMINATES YOUR RESELLER ACCOUNT!** <br>
 <hr>
-This project uses multiple Open Source Projects of WybeNetwork and a lot of Organizations.
+This project uses multiple Open Source Projects of WybeNetwork and a lot of Organizations.<br>
 Steps >
 1. Go fork my <a href="https://repl.it/@soundarrr/cpanel">repl.(Changing the scritps in Ifastnet panel takes a long time, so a small easy alternative).</a><br>
-2. After forking edit script.js, find https://domain.org and replace it with your support system url(A KB or a Discord Server URL).
-3. Copy the repl.it deployed URL(e.g https://cpanel.yourusername.repl.co).
-3. Login into https://panel.myownfreehost.net and go to customise adverts area(Control Panel Adverts), choose the domain and add,
+2. After forking edit script.js, find https://domain.org and replace it with your support system url(A KB or a Discord Server URL).<br>
+3. Copy the repl.it deployed URL(e.g https://cpanel.yourusername.repl.co).<br>
+3. Login into https://panel.myownfreehost.net and go to customise adverts area(Control Panel Adverts), choose the domain and add,<br>
 > Top Advert <br>
 
 
@@ -19,9 +19,9 @@ Steps >
 `<link rel="stylesheet" type="text/css" href="https://cpanel.yourusername.repl.co/styles.css"> `
 
 <hr>
-And thats pretty much it, you just got vPanel looking like cPanel.
-
-Screenshots = 
+And thats pretty much it, you just got vPanel looking like cPanel.<br>
+<br>
+Screenshots = <br>
 <img src="https://i.snipboard.io/C0m8OM.jpg">
 <br>
 <img src="https://i.snipboard.io/Pmvr09.jpg">
@@ -31,7 +31,7 @@ This code is not completely perfect.<br>
 If possible, you can help me by opening a PR :)<br>
 If anything isnt working, or you need help, open a issue :)<br>
 and again,<br>
-⚠️ **I AM NOT RESPONSIBLE IF IFASTNET SUSPENDS/TERMINATES YOUR RESELLER ACCOUNT!**
+⚠️ **I AM NOT RESPONSIBLE IF IFASTNET SUSPENDS/TERMINATES YOUR RESELLER ACCOUNT!**  <br>
 
 
 Credits = <br>
