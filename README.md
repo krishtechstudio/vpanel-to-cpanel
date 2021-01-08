@@ -1,6 +1,6 @@
 # vPanel 2 cPanel
 Wanna have a cPanel experience in vPanel(myownfreehost.net)? You have come to the right place.<br>
-⚠️ **I AM NOT RESPONSIBLE IF IFASTNET SUSPENDS/TERMINATES YOUR RESELLER ACCOUNT!** <br>
+THE SCRIPT HAS BEEN UPDATED,AND IFASTNET CAN NO LONGER SUSPEND YOU! 
 <hr>
 This project uses multiple Open Source Projects of WybeNetwork and a lot of Organizations.<br>
 Steps > <br>
@@ -29,9 +29,6 @@ Screenshots = <br>
 
 This code is not completely perfect.<br>
 If possible, you can help me by opening a PR :)<br>
-If anything isnt working, or you need help, open a issue :)<br>
-and again,<br>
-⚠️ **I AM NOT RESPONSIBLE IF IFASTNET SUSPENDS/TERMINATES YOUR RESELLER ACCOUNT!**  <br>
 
 
 Credits = <br>
